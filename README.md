@@ -8,6 +8,12 @@
 ### Skills 🗒️
 - <h3 align="left">Languages and Tools:</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://i.ibb.co/NSvx84w/C.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://i.ibb.co/zfLwfH2/HTML.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://i.ibb.co/HXrvk0y/css.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://i.ibb.co/m8JGBZm/ASM.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://i.ibb.co/2yvzDQL/r-programming.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+
 
   
   
