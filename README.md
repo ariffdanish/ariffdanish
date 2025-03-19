@@ -1,7 +1,3 @@
-Here's a refreshed version of your introduction with a more modern, engaging, and visually appealing layout:  
-
----
-
 # 👋 Hi, I'm **Ariff Danish**  
 
 🚀 **Aspiring Data Engineer | Tech Enthusiast | Problem Solver**  
