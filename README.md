@@ -53,5 +53,3 @@
 💡 *Passionate about data, technology, and solving real-world problems. Always eager to learn and collaborate!* 🚀  
 
 ---
-
-This version makes your profile **cleaner, more structured, and visually engaging** while keeping all the essential details. Hope you like it! 😊
