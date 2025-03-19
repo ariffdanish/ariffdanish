@@ -1,38 +1,61 @@
-# Hi there, I'm Ariff Danish 👋
+Here's a refreshed version of your introduction with a more modern, engaging, and visually appealing layout:  
 
-### My Background 🖊️
-### 📌 **Muhammad Ariff Danish Bin Hashnan**  
+---
 
-👤 **Age:** 22  
-📍 **Born:** Kemaman, Terengganu  
-🎓 **Study:** Bachelor in Science Computer (Data Engineering) with Honours  
-🏫 **Place:** Universiti Teknologi Malaysia (UTM), Skudai  
-🎓 **Year:** 3rd Year Student  
+# 👋 Hi, I'm **Ariff Danish**  
 
+🚀 **Aspiring Data Engineer | Tech Enthusiast | Problem Solver**  
 
+---
 
-### Skills 🗒️
-- <h3 align="left">Languages and Tools:</h3>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://i.ibb.co/NSvx84w/C.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://i.ibb.co/zfLwfH2/HTML.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://i.ibb.co/HXrvk0y/css.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://i.ibb.co/m8JGBZm/ASM.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://i.ibb.co/2yvzDQL/r-programming.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+## 🏷️ About Me  
+🖊️ **Full Name:** Muhammad Ariff Danish Bin Hashnan  
+📍 **Hometown:** Kemaman, Terengganu  
+🎓 **Education:** Bachelor of Science in Computer (Data Engineering) with Honours  
+🏫 **University:** Universiti Teknologi Malaysia (UTM), Skudai  
+📅 **Year:** 3rd Year Student  
 
+---
 
-  
-  
-### Education 🏫
-- [Sekolah Kebangsaan Teluk Kalong, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Kebangsaan_Telok_Kalong) (UPSR) 
-- [Sekolah Menengah Sains Dungun, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Menengah_Sains_Dungun) (SPM)
-- [Pusat Asasi UITM Dengkil, Selangor](https://asasi.uitm.edu.my/) (Foundation of Engineering)
--  [Universiti Teknologi Malaysia, Johor Bahru](https://www.utm.my) (Bachelor in Science Computer)
+## 🔧 Skills & Tools  
 
-
-  
-### Connect with me 🙌
-
+### 🚀 **Programming Languages & Technologies**  
 <p align="left">
-    <a href="https://github.com/ariffdanish" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ariffdanish-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="mailto:muhammadariffdanish@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-muhammadariffdanish@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadariffdanish@graduate.utm.my.com"></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://i.ibb.co/NSvx84w/C.png" alt="C" width="50" height="50"/>
+  <img src="https://i.ibb.co/zfLwfH2/HTML.png" alt="HTML" width="50" height="50"/>
+  <img src="https://i.ibb.co/HXrvk0y/css.jpg" alt="CSS" width="50" height="50"/>
+  <img src="https://i.ibb.co/m8JGBZm/ASM.png" alt="Assembly Language" width="50" height="50"/>
+  <img src="https://i.ibb.co/2yvzDQL/r-programming.jpg" alt="R Programming" width="50" height="50"/>
+</p>  
+
+### 📊 **Data & Analytics Tools**  
+✅ RapidMiner  
+✅ Python (Pandas, NumPy, Scikit-learn)  
+✅ SQL  
+
+---
+
+## 🎓 Education  
+📌 **[Sekolah Kebangsaan Teluk Kalong, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Kebangsaan_Telok_Kalong) – (UPSR)**  
+📌 **[Sekolah Menengah Sains Dungun, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Menengah_Sains_Dungun) – (SPM)**  
+📌 **[Pusat Asasi UiTM Dengkil, Selangor](https://asasi.uitm.edu.my/) – (Foundation of Engineering)**  
+📌 **[Universiti Teknologi Malaysia, Johor Bahru](https://www.utm.my) – (Bachelor in Science Computer)**  
+
+---
+
+## 🌟 Let's Connect!  
+<p align="left">
+  <a href="https://github.com/ariffdanish" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>  
+  <a href="mailto:muhammadariffdanish@graduate.utm.my" target="_blank">
+    <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>  
+</p>  
+
+💡 *Passionate about data, technology, and solving real-world problems. Always eager to learn and collaborate!* 🚀  
+
+---
+
+This version makes your profile **cleaner, more structured, and visually engaging** while keeping all the essential details. Hope you like it! 😊
