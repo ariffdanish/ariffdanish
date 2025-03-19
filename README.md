@@ -1,7 +1,13 @@
 # Hi there, I'm Ariff Danish 👋
 
 ### My Background 🖊️
-- Muhammad Ariff Danish Bin Hashnan is my name. 20 years old. At the moment, I attend University Technology Malaysia in Johor Bahru. My first year of the data engineering course is currently this year. In general, it was challenging but exciting to take a science computer course for the first time. I'm hoping to make it through this field and gain more success soon ! 
+### 📌 **Muhammad Ariff Danish Bin Hashnan**  
+
+👤 **Age:** 22  
+📍 **Born:** Kemaman, Terengganu  
+🎓 **Study:** Bachelor in Science Computer (Data Engineering) with Honours  
+🏫 **Place:** Universiti Teknologi Malaysia (UTM), Skudai  
+🎓 **Year:** 3rd Year Student  
 
 
 
