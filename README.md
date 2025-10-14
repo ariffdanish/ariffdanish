@@ -1,55 +1,49 @@
-# 👋 Hi, I'm **Ariff Danish**  
-
-🚀 **Aspiring Data Engineer | Tech Enthusiast | Problem Solver**  
+👋 Hi, I'm Ariff - Data Engineer at ORTech | Tech Enthusiast | Problem Solver
 
 ---
 
-## 🏷️ About Me  
-🖊️ **Full Name:** Muhammad Ariff Danish Bin Hashnan  
-📍 **Hometown:** Kemaman, Terengganu  
-🎓 **Education:** Bachelor of Science in Computer (Data Engineering) with Honours  
-🏫 **University:** Universiti Teknologi Malaysia (UTM), Skudai  
-📅 **Year:** 3rd Year Student  
+🏷️ About Me
+
+| 🏷️ Attribute         | 📌 Details                                                   |
+| --------------------- | ------------------------------------------------------------ |
+| 🧠 **Full Name**      | Muhammad Ariff Danish Bin Hashnan                            |
+| 🎂 **Date of Birth**  | 14 February 2003                                             |
+| 🏡 **Place of Birth** | Kemaman, Terengganu, Malaysia                                |
+| 🎯 **Age**            | 22 Years Old                                                 |
+| 💼 **Current Role**   | Data Engineer @ OR Technologies (ORTech)                     |
+| 🎓 **Education**      | Bachelor of Computer Science (Data Engineering) with Honours |
 
 ---
 
-## 🔧 Skills & Tools  
+💼 Professional Experience
+🏢 OR Technologies (ORTech)
 
-### 🚀 **Programming Languages & Technologies**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://i.ibb.co/NSvx84w/C.png" alt="C" width="50" height="50"/>
-  <img src="https://i.ibb.co/zfLwfH2/HTML.png" alt="HTML" width="50" height="50"/>
-  <img src="https://i.ibb.co/HXrvk0y/css.jpg" alt="CSS" width="50" height="50"/>
-  <img src="https://i.ibb.co/m8JGBZm/ASM.png" alt="Assembly Language" width="50" height="50"/>
-  <img src="https://i.ibb.co/2yvzDQL/r-programming.jpg" alt="R Programming" width="50" height="50"/>
-</p>  
+Position: Data Engineer
+Duration: 2025 – Present
+Key Responsibilities:
 
-### 📊 **Data & Analytics Tools**  
-✅ RapidMiner  
-✅ Python (Pandas, NumPy, Scikit-learn)  
-✅ SQL  
+- Develop and maintain ETL data pipelines for analytics and reporting
 
----
+- Perform data cleansing, transformation, and integration using Python and SQL
 
-## 🎓 Education  
-📌 **[Sekolah Kebangsaan Teluk Kalong, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Kebangsaan_Telok_Kalong) – (UPSR)**  
-📌 **[Sekolah Menengah Sains Dungun, Terengganu](https://ms.wikipedia.org/wiki/Sekolah_Menengah_Sains_Dungun) – (SPM)**  
-📌 **[Pusat Asasi UiTM Dengkil, Selangor](https://asasi.uitm.edu.my/) – (Foundation of Engineering)**  
-📌 **[Universiti Teknologi Malaysia, Johor Bahru](https://www.utm.my) – (Bachelor in Science Computer)**  
+- Collaborate with BI teams to design real‑time dashboards using Tableau and Alteryx Server
+
+- Manage data workflows across multiple systems ensuring scalability and reliability
+
+- Optimize query performance and ensure data accuracy across cloud environments
 
 ---
 
-## 🌟 Let's Connect!  
-<p align="left">
-  <a href="https://github.com/ariffdanish" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>  
-  <a href="mailto:muhammadariffdanish@graduate.utm.my" target="_blank">
-    <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>  
-</p>  
+🔧 Skills & Tools
 
-💡 *Passionate about data, technology, and solving real-world problems. Always eager to learn and collaborate!* 🚀  
+✅ Alteryx Designer & Server
+✅ Tableau (Desktop & Server)
+✅ Dremio
+✅ Cloudian
 
 ---
+
+🌐 Let's Connect
+<p align="left"> <a href="https://github.com/ariffdanish" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:muhammadariffdanish@graduate.utm.my" target="_blank"> <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/ariffdanish/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+💡 A passionate Data Engineer dedicated to building scalable data systems, unlocking insights through analytics, and driving innovation through data‑driven solutions. 🚀
